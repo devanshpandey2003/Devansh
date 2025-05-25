@@ -10,7 +10,7 @@
 
 <br>
 
-![screenshot](./src/assets/screenshot.png)
+![screenshot](./src/assets/devansh.png)
 
 ## 🚀 Features
 
