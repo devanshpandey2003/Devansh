@@ -1,9 +1,9 @@
-import React from 'react';
+
 import { RiFireLine, RiCupLine, RiGroupLine, RiTrophyLine } from 'react-icons/ri';
 
 const AboutBox = () => {
     return (
-        <div className="about__boxes grid">
+        <div className="about__boxes grid margin-top-lg">
 
             <div className="about__box">
                 <RiCupLine className='about__icon' />

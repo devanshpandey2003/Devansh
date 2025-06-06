@@ -99,7 +99,7 @@
 .about__boxes {
   grid-template-columns: repeat(4, 1fr);
   column-gap: 1.875rem;
-  margin-top: 4.35rem;
+  margin-top: 4 .35rem;
 }
 
 .about__box {
@@ -138,6 +138,7 @@
   .about__box {
     flex-direction: column;
     row-gap: 0.5rem;
+   margin-top: 4.875rem;
     text-align: center;
     align-items: center;
   }
@@ -159,6 +160,7 @@
 
   .about__boxes {
     display: grid;
+    margin-top: 1.875rem;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 2rem;
     max-width: 960px;
@@ -181,5 +183,6 @@
   .about__boxes {
     grid-template-columns: 1fr;
     align-items: center;
+    margin-top: 1.875rem;
   }
 }
