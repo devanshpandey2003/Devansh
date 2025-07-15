@@ -35,14 +35,14 @@ const Menu = [
     title: "PlusFitGym",
     category: ["Next.js"],
     url: "https://plus-fitt.vercel.app/",
-    repositoryUrl: "https://github.com/devanshpandey2003/CrickShot",
+    repositoryUrl: "https://github.com/devanshpandey2003/PlusFitt",
   },
   {
     id: 5,
     image: tcp,
     title: "Custom Protocol - A Lightweight Communication Protocol",
     category: ["Backend"],
-    repositoryUrl: "https://github.com/devanshpandey2003/PlusFitt",
+    repositoryUrl: "https://github.com/devanshpandey2003/MyProtocol",
   },
   {
     id: 6,
