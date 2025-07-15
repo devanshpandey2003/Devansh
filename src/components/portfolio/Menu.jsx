@@ -33,7 +33,7 @@ const Menu = [
     id: 4,
     image: Work4,
     title: "PlusFitGym",
-    category: ["Next,js"],
+    category: ["Next.js"],
     url: "https://plus-fitt.vercel.app/",
     repositoryUrl: "https://github.com/devanshpandey2003/CrickShot",
   },
