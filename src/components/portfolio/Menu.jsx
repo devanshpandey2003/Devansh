@@ -9,6 +9,14 @@ const Menu = [
   {
     id: 1,
     image: Work1,
+    title: "Alora - WebSite Builder with AI",
+    category: ["Next.js"],
+    url: "https://alora-lake.vercel.app",
+    repositoryUrl: "https://github.com/devanshpandey2003/alora",
+  },
+  {
+    id: 1,
+    image: Work1,
     title: "CrickShot - Sports Performance Analysis",
     category: ["AI/ML"],
     url: "https://v0-crickboost.vercel.app/",
