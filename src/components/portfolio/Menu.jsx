@@ -4,11 +4,12 @@ import Work3 from "../../assets/resume-ranking.png";
 import Work4 from "../../assets/bloodline.png";
 import tcp from "../../assets/tcp.png";
 import git from "../../assets/git.png";
+import alora from "../../assets/alora.png";
 
 const Menu = [
   {
     id: 1,
-    image: Work1,
+    image: alora,
     title: "Alora - WebSite Builder with AI",
     category: ["Next.js"],
     url: "https://alora-lake.vercel.app",
