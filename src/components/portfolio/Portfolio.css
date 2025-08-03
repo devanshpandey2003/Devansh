@@ -9,11 +9,6 @@
 .portfolio__item {
   cursor: pointer;
   font-weight: var(--font-bold);
-}
-
-.portfolio__item {
-  cursor: pointer;
-  font-weight: var(--font-bold);
   transition: 0.3s;
 }
 
@@ -52,6 +47,25 @@
   opacity: 0.9;
 }
 
+.portfolio__thumbnail {
+  position: relative;
+  width: 100%;
+  height: 250px; /* Adjust this height as needed */
+  overflow: hidden;
+}
+
+.portfolio__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: 0.3s;
+}
+
+/* Optional: Add a subtle zoom effect on hover */
+.portfolio__card:hover .portfolio__img {
+  transform: scale(1.1);
+}
 .portfolio__category {
   color: #fff;
   background-color: var(--first-color);
