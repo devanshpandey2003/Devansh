@@ -99,7 +99,7 @@
 .about__boxes {
   grid-template-columns: repeat(4, 1fr);
   column-gap: 1.875rem;
-  margin-top: 4 .35rem;
+  margin-top: 5rem;
 }
 
 .about__box {
@@ -160,11 +160,11 @@
 
   .about__boxes {
     display: grid;
-    margin-top: 1.875rem;
+    margin-top: 4rem;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
     gap: 2rem;
     max-width: 960px;
-    margin: 0 auto;
+    
 }
 
 }
